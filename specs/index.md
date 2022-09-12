@@ -1,1 +1,3 @@
-# Emblem Specifications
+# **_Emblem_** Specifications
+
+## Copyright (c) 2022 - Present, Muhammad Tahir Abdullahi
