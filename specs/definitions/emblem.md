@@ -28,4 +28,4 @@
 
 14. **ess** `MUST` mean **`e`mblem `s`erver `s`cript**, which is a `file extension` name for files containing `emblem programming language` codes meant to be used through `web servers`. Though, it `MAY` contain other programming languages codes too.
 
-15. **ews** `MUST` mean the **`e`mblem `w`eb `s`erver**, which is a `virtual runtime environment` running `on top` of the `eViM` (or the `librem` especially for other programming languages implementations), it processes `.ess` files and `MAY` return results where necessary.
+15. **ews** `MUST` mean the **`e`mblem `w`eb `s`erver**, which is a `virtual runtime environment` running `on top` of the `eViM` (or the `librem` especially for other programming languages implementations), it processes `.ess` files and `MAY` return results where necessary. It `SHOULD` by default listen to port `3625` for `plain` or `normal` connections and port `2536` for `secured` connections.
